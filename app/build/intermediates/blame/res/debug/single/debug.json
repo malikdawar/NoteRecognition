@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_red.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-xhdpi\\ic_red.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_hand_2.xml.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\raw\\haarcascade_hand_2.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11_ic_stat_name.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_hand_1.xml.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\raw\\haarcascade_hand_1.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stat_camera.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable\\ic_stat_camera.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brainfacerec.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable\\brainfacerec.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_yellow.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-mdpi\\ic_yellow.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_green.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_green.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightbulb.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable\\lightbulb.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_yellow.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_yellow.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fd1.xml.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\layout\\activity_fd1.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_yellow.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-hdpi\\ic_yellow.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_face_detect_surface_view.xml.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11_ic_stat_name.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-xhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11_ic_stat_name.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_green.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-mdpi\\ic_green.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_hand_2.xml.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\raw\\haarcascade_hand_2.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9_ic_stat_name.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_name.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v9_ic_stat_name.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-xhdpi-v9\\ic_stat_name.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_yellow.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_yellow.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_red.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-hdpi\\ic_red.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_green.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-hdpi\\ic_green.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11_ic_stat_name.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-xhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11_ic_stat_name.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-mdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_red.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-mdpi\\ic_red.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_green.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-xhdpi\\ic_green.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_green.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_green.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_lbpcascade_frontalface.xml.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightbulb.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable\\lightbulb.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fd1.xml.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\layout\\activity_fd1.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_red.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_red.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_yellow.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-xhdpi\\ic_yellow.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_face_detect_surface_view.xml.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\raw_lbpcascade_frontalface.xml.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_hand_1.xml.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\raw\\haarcascade_hand_1.xml"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v9_ic_stat_name.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-mdpi-v9\\ic_stat_name.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11_ic_stat_name.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-mdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stat_camera.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable\\ic_stat_camera.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_yellow.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-mdpi\\ic_yellow.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_red.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_red.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v9_ic_stat_name.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-hdpi-v9\\ic_stat_name.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v9_ic_stat_name.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-mdpi-v9\\ic_stat_name.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_red.png.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\drawable-mdpi\\ic_red.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_catalog_view.xml.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\layout\\catalog_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v9_ic_stat_name.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-hdpi-v9\\ic_stat_name.png"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_green.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable-mdpi\\ic_green.png"
+    },
+    {
+        "merged": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout_catalog_view.xml.flat",
+        "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\layout\\catalog_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brainfacerec.png.flat",
+        "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\drawable\\brainfacerec.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":openCVLibrary2411"><source path="E:\gitRepository\Repository\NoteRecognition\openCVLibrary2411\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\gitRepository\Repository\NoteRecognition\app\src\main\assets"/><source path="E:\gitRepository\Repository\NoteRecognition\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\gitRepository\Repository\NoteRecognition\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "E:\\gitRepository\\Repository\\NoteRecognition\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "3,17,12,7,8,14,16,13,6,15,10,9,4,5,11,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "115,866,580,305,348,714,812,675,262,763,477,421,150,199,529,55",
+                        "endColumns": "34,51,94,42,72,48,53,38,42,48,51,55,48,62,50,59",
+                        "endOffsets": "145,913,670,343,416,758,861,709,300,807,524,472,194,257,575,110"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,82,134,229,272,345,394,448,487,530,579,631,687,736,799,850",
+                        "endColumns": "26,51,94,42,72,48,53,38,42,48,51,55,48,62,50,59",
+                        "endOffsets": "77,129,224,267,340,389,443,482,525,574,626,682,731,794,845,905"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "D:\\Android_Project\\OpenCV\\AndroidProjects_2_3_3\\face-recognition-master\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "3,17,12,7,8,14,16,13,6,15,10,9,4,5,11,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "115,866,580,305,348,714,812,675,262,763,477,421,150,199,529,55",
+                        "endColumns": "34,51,94,42,72,48,53,38,42,48,51,55,48,62,50,59",
+                        "endOffsets": "145,913,670,343,416,758,861,709,300,807,524,472,194,257,575,110"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,82,134,229,272,345,394,448,487,530,579,631,687,736,799,850",
+                        "endColumns": "26,51,94,42,72,48,53,38,42,48,51,55,48,62,50,59",
+                        "endOffsets": "77,129,224,267,340,389,443,482,525,574,626,682,731,794,845,905"
+                    }
+                }
+            ]
+        }
+    ]
+}

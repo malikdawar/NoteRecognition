@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android_Project\OpenCV\AndroidProjects_2_3_3\face-recognition-master\app\libs\javacv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1824ed7a180ee32aa57f5632a489c10aad8f1804">
+        <dex dex="D:\Android_Project\OpenCV\AndroidProjects_2_3_3\face-recognition-master\app\build\intermediates\pre-dexed\debug\javacv_371184e9016364ad4ef885f4f6c8190eb6ee130e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Project\OpenCV\AndroidProjects_2_3_3\face-recognition-master\app\libs\javacpp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="08f8b1e3fdcc93a1e9076d6279864d6a46982a85">
+        <dex dex="D:\Android_Project\OpenCV\AndroidProjects_2_3_3\face-recognition-master\app\build\intermediates\pre-dexed\debug\javacpp_0acda6a8af5da05adb49b3ad3f2960c67559b4e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Project\OpenCV\AndroidProjects_2_3_3\face-recognition-master\openCVLibrary2411\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e963c3a9e7d8156af23ba961abc8258e3771ced">
+        <dex dex="D:\Android_Project\OpenCV\AndroidProjects_2_3_3\face-recognition-master\app\build\intermediates\pre-dexed\debug\classes_cca9f2acc89374969d003b26cd1dcd2c0b6fbf45.jar" />
+    </item>
+
+</items>
